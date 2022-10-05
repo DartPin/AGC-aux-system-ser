@@ -1,0 +1,20 @@
+[
+    {
+        "idUser": 1,
+        "name": "Андрей",
+        "sirname": "Люльков",
+        "jobPosition": "Ведущий инженер"
+    },
+    {
+        "idUser": 2,
+        "name": "Александр",
+        "sirname": "Смеловский",
+        "jobPosition": "Координатор"
+    },
+    {
+        "idUser": 3,
+        "name": "Никита",
+        "sirname": "Дюдин",
+        "jobPosition": "Технолог"
+    }
+]
